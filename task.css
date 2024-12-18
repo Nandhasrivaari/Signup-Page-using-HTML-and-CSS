@@ -1,0 +1,176 @@
+body{
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center; /* Horizontally centers the content */
+    align-items: center;
+    height: 100vh;
+}
+#sign{
+    background-color: white;
+    height: 500px;
+    width: 300px;
+    padding: 20px;
+    margin: 30px 30px 30px 30px; 
+    color: blueviolet; 
+    border-radius: 30px;
+    box-shadow: 30px 30px 20px 0 rgb(63, 58, 58);
+}
+
+#name{
+    color: black;
+    height: 25px;
+    width: 300px;
+    padding: 2px;
+    border: 40px 5px 40px 5px soild black;
+    box-shadow: 2px 2px 0 2px black;
+    border-radius: 3px;
+}
+#mail{
+    color: black;
+    height: 25px;
+    width: 300px;
+    padding: 2px;
+    border: 40px 5px 40px 5px soild black;
+    box-shadow: 2px 2px 0 2px black;
+    border-radius: 3px;
+}
+#pass{
+    color: black;
+    height: 25px;
+    width: 300px;
+    padding: 2px;
+    border: 40px 5px 40px 5px soild black;
+    box-shadow: 2px 2px 0 2px black;
+    border-radius: 3px;
+}
+#account{
+    color: black;
+}
+#sub{
+    color: black;
+    height: 35px;
+    width: 300px;
+    padding: 2px;
+    border: 40px 5px 40px 5px soild black;
+    box-shadow: 2px 2px 0 2px black;
+    border-radius: 20px;
+    background-color: blueviolet;
+}
+#log{
+    color: blueviolet;
+}
+#na{
+    color: black;
+    text-align:center;
+}
+#em{
+    color: black;
+}
+#paa{
+    color: black;
+}
+h1{
+    text-align: center;
+}
+#sign:hover{
+    transform: scale(1.1);
+    transition: all.500s;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ /* body{
+    background-color:orangered;
+}
+.container{
+    border: 30px solid black;
+     margin: 200px; 
+}
+.ch1{
+    border: 30px solid white;
+}
+.bor{
+    border: 30px solid black;
+    padding: 30px 30px 30px 30px;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+p{
+    color: white;  
+}
+ul{
+    color: white;
+    
+}
+#lo{
+    color: white;
+}  */
